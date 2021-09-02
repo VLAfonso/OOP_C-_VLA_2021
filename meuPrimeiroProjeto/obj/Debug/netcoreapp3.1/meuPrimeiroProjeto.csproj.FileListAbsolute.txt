@@ -1,0 +1,13 @@
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\OOP_C-_VLA_2021\meuPrimeiroProjeto\bin\Debug\netcoreapp3.1\meuPrimeiroProjeto.exe
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\OOP_C-_VLA_2021\meuPrimeiroProjeto\bin\Debug\netcoreapp3.1\meuPrimeiroProjeto.deps.json
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\OOP_C-_VLA_2021\meuPrimeiroProjeto\bin\Debug\netcoreapp3.1\meuPrimeiroProjeto.runtimeconfig.json
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\OOP_C-_VLA_2021\meuPrimeiroProjeto\bin\Debug\netcoreapp3.1\meuPrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\OOP_C-_VLA_2021\meuPrimeiroProjeto\bin\Debug\netcoreapp3.1\meuPrimeiroProjeto.dll
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\OOP_C-_VLA_2021\meuPrimeiroProjeto\bin\Debug\netcoreapp3.1\meuPrimeiroProjeto.pdb
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\OOP_C-_VLA_2021\meuPrimeiroProjeto\obj\Debug\netcoreapp3.1\meuPrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\OOP_C-_VLA_2021\meuPrimeiroProjeto\obj\Debug\netcoreapp3.1\meuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\OOP_C-_VLA_2021\meuPrimeiroProjeto\obj\Debug\netcoreapp3.1\meuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\OOP_C-_VLA_2021\meuPrimeiroProjeto\obj\Debug\netcoreapp3.1\meuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\OOP_C-_VLA_2021\meuPrimeiroProjeto\obj\Debug\netcoreapp3.1\meuPrimeiroProjeto.dll
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\OOP_C-_VLA_2021\meuPrimeiroProjeto\obj\Debug\netcoreapp3.1\meuPrimeiroProjeto.pdb
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\OOP_C-_VLA_2021\meuPrimeiroProjeto\obj\Debug\netcoreapp3.1\meuPrimeiroProjeto.genruntimeconfig.cache
